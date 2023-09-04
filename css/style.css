@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+/* HEADER*/
 #logo {
     width: 11%;
     margin-top: 2%;
@@ -16,3 +16,23 @@ header {
     background-image: url(../img/pattern.png);
     background-size: 23%;
 }
+/* HEADER*/
+
+/* TITOLO*/
+.margin {
+    margin: 13px;
+}
+
+ #titolo {
+    font-size: 45px;
+ } 
+
+span{
+    color: #7ab1e4;
+}
+
+div{
+    color: gray;
+    font-size: 20px;
+}
+/* TITOLO*/
