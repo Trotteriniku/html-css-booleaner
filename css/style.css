@@ -60,3 +60,27 @@ figure img {
     margin: 30px;
 }
 /*LISTA*/
+
+/*TABELLA*/
+table{
+    max-width: 50%;
+}
+#tr-blue{
+    background-color: #679edf;
+
+}
+.tr-color{
+    background-color: #c2e2f0;
+}
+.th-space{
+     padding-right: 90px;
+    margin-bottom: 15px;
+    color: white;
+}
+.td-space{
+    padding-right: 90px;
+    padding-bottom: 30px;
+    padding-top: 15px;
+}
+/*TABELLA*/
+
