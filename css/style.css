@@ -84,3 +84,22 @@ table{
 }
 /*TABELLA*/
 
+/*CORRELATI*/
+aside h3{
+    color: gray;
+}
+
+aside h2{
+    color: white;
+    background-image: url(../img/monitor.jpg);
+    width: 250px;
+    height: 200px;
+}
+
+#aside-h2{
+    margin-top: 10px;
+    background-image: url(../img/graph.jpg);
+}
+/*CORRELATI*/
+
+
