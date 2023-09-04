@@ -3,6 +3,18 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+p {
+    margin: 13px;
+    text-align: justify;
+    max-width: 60%;
+}
+
+p span{
+    background-color: yellow;
+    color: black;
+}
+
 /* HEADER*/
 #logo {
     width: 11%;
@@ -36,3 +48,15 @@ div{
     font-size: 20px;
 }
 /* TITOLO*/
+
+/* FOTO CON DIDASCALIA*/
+figure img {
+    margin-top: 10px;
+}
+/* FOTO CON DIDASCALIA*/
+
+/*LISTA*/
+.lista{
+    margin: 30px;
+}
+/*LISTA*/
